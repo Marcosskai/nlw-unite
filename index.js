@@ -3,37 +3,37 @@ let participantes = [
     nome: "Diego",
     email: "diegosad@gmail.com",
     dataInscricao: new Date(2024, 2, 22, 19, 20),
-    dataCheckIn: new Date(2024, 2, 25, 22, 00)
+    dataCheckIn: new Date(2024, 2, 25, 22, 15)
   },
   {
     nome: "Marcos",
     email: "Marcossad@gmail.com",
     dataInscricao: new Date(2024, 2, 22, 19, 20),
-    dataCheckIn: new Date(2024, 2, 25, 22, 00)
+    dataCheckIn: new Date(2024, 2, 25, 22, 15)
   },
   {
     nome: "João",
     email: "joaosad@gmail.com",
     dataInscricao: new Date(2024, 2, 22, 19, 20),
-    dataCheckIn: new Date(2024, 2, 25, 22, 00)
+    dataCheckIn: new Date(2024, 2, 25, 22, 15)
   },
   {
     nome: "Ana",
     email: "anasad@gmail.com",
     dataInscricao: new Date(2024, 2, 22, 19, 20),
-    dataCheckIn: new Date(2024, 2, 25, 22, 00)
+    dataCheckIn: new Date(2024, 2, 25, 22, 15)
   },
   {
     nome: "Maria",
     email: "mariasad@gmail.com",
     dataInscricao: new Date(2024, 2, 22, 19, 20),
-    dataCheckIn: new Date(2024, 2, 25, 22, 00)
+    dataCheckIn: new Date(2024, 2, 25, 22, 15)
   },
   {
     nome: "Carlos",
     email: "carlossad@gmail.com",
     dataInscricao: new Date(2024, 2, 22, 19, 20),
-    dataCheckIn: new Date(2024, 2, 25, 22, 00)
+    dataCheckIn: new Date(2024, 2, 25, 22, 15)
   },
 ]
 
